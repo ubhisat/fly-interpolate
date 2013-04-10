@@ -7,3 +7,5 @@ This MATLAB module would read 'ctrax' specific file data for object positions in
 This project was done as a part of research for studying the flying pattern of fireflies. The MATLAB code here would read application specific spreadsheet document and fix missing information and correct data file for further analysis.
 
 This may be too specific for general public use but I hope that someone can benefit from interpolation techniques used in this program.
+
+For more information about the CTRAX program, please visit http://ctrax.sourceforge.net/
